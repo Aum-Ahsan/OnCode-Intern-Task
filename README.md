@@ -15,7 +15,6 @@
 - [Folder Structure](#folder-structure)
 - [Tech Stack](#tech-stack)
 - [Features](#features)
-- [Screenshot](#screenshot)
 - [Installation & Running](#installation--running)
 - [API Endpoints](#api-endpoints)
 - [License](#license)
@@ -71,30 +70,23 @@ It includes:
 
 ---
 
-## 🖼 Screenshot
-
-![AuditCo Screenshot](./frontend/assets/images/screenshot.png)  
-> Screenshot of the homepage with service sections and admin panel preview.
-
----
-
 ## 📥 Installation & Running
 
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/Aum-Ahsan/audit-company-web.git
+git clone https://github.com/Aum-Ahsan/OnCode-Intern-Task.git
 ```
 
 2. **Backend setup:**
 
 ```bash
-cd audit-company-web/backend
+cd OnCode-Intern-Task/backend
 npm install
 ```
 
-- Add your `.env` file with MongoDB URI and JWT secret.
-- Start server:
+- Add `.env` with MongoDB URI and JWT secret.
+- Start backend server:
 
 ```bash
 node server.js
